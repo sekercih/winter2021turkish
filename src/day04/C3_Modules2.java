@@ -86,7 +86,7 @@ public class C3_Modules2 {
 		 
 		 
 		 
-		 
+		 scan.close();
 		 
 		 
 		 
