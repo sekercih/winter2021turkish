@@ -11,6 +11,8 @@ public class C3_MethodCreation3 {
 			public static void ortalama(double sayi1, double sayi2, double sayi3) {
 				
 				System.out.println("Girilen sayilarin ortalamasi: " + (sayi1+sayi2+sayi3)/2);
+				
+				System.out.println(true);
 
 	}
 
