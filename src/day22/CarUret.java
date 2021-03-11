@@ -6,6 +6,10 @@ public class CarUret {
 	int yil;
 	boolean kazasiVarmi;
 	
+	 public CarUret(){
+		
+	}
+	
 	
 	public void yakit(String yakit) {
 		System.out.println("Araba yakit olarak "+yakit+" kullanir");

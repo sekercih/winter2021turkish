@@ -10,7 +10,7 @@ public class CarUretRunner {
 		car1.kazasiVarmi=true;
 		System.out.println(car1.marka+" "+car1.model+" "+car1.yil+" "+car1.kazasiVarmi+" "+" ");
 		
-
+		
 	}
 
 }
