@@ -5,9 +5,9 @@ import java.lang.reflect.Method;
 import org.omg.CORBA.PUBLIC_MEMBER;
 
 public class Scope1 {
-	int sayi;
-	String isim="hakko07";
-	String soyisim="dede";
+	public int sayi;
+	public String isim="hakko07";
+	public String soyisim="dede";
 
 	public static void main(String[] args) {
 		staticMethod();
