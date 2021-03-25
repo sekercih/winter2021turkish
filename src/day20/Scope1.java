@@ -1,8 +1,8 @@
 package day20;
 
-import java.lang.reflect.Method;
 
-import org.omg.CORBA.PUBLIC_MEMBER;
+
+
 
 public class Scope1 {
 	public int sayi;
