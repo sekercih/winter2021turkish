@@ -5,6 +5,9 @@ public class Formen extends Isci {
 	    public String isim="Emrullah";
 	    public static void main(String[] args) {
 	        
+	    	
+	    	
+	    	
 	        // Inheritance'da data turu olarak class ismi kullanimi
 	        
 	        // Bir class'da obje uretirken data turu olarak class'in kendisini 
