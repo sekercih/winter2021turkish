@@ -46,5 +46,8 @@ public class Exceptions01 {
         
         System.out.println("Kod bloke olmamis");
         */
+      Object obj=new Integer(100);
+      System.out.println((Byte)obj);
+      
     }
 }
